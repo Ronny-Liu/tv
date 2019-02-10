@@ -1,19 +1,5 @@
 #EXTM3U
 
-#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影1
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影2
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影3
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影4
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影5
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影6
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影7
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:tvg-logo=“http://singteltv.com.sg/_channels/pic_ch585.jpg“ group-title=“影视“,港天映电影频道
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 #EXTINF:tvg-logo=““ group-title=“综合“,港星空卫视
@@ -84,6 +70,20 @@ http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:tvg-logo=“https://upload.wikimedia.org/wikipedia/zh/f/fe/DiscoveryChannel.png“ group-title=“人文“,台 DISCOVERY 中文字幕
 rtmp://58.200.131.2:1935/livetv/discovery
+#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影1
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影2
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影3
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影4
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影5
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影6
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:tvg-logo=““ group-title=“影视“,轮播高清电影7
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:tvg-logo=“https://upload.wikimedia.org/wikipedia/zh/2/23/VL-Networks-Logo.png“ group-title=“体育“,体纬来体育HD
 http://59.120.242.104:9000/live/live12.m3u8
 #EXTINF:tvg-logo=““ group-title=“体育“,体博斯魅力台HD
